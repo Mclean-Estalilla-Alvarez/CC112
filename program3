@@ -9,7 +9,7 @@ int main() {
     cin>>number1;
     cout<<"Please enter your second number: ";
     cin>>number2;
-    result = number1 + number2;
     cout<<"Product of the two numbers is "<<number1 * number2;
+}
 
 
