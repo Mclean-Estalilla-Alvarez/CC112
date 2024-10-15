@@ -5,8 +5,7 @@
     main function will return a value and it is a int
     display strings, get data from user and display that data
 */
-
-
+ 
 #include <iostream>
 using namespace std;
 
