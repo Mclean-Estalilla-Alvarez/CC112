@@ -10,3 +10,4 @@ int main() {
     cout<<"Price per kilogram of apple: ";
     cin>>number2;
     cout<<"The price of apple is "<<number1 * number2;
+}
